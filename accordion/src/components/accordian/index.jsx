@@ -46,7 +46,7 @@ console.log(selected, multiple);
             </div>
           ))
         ) : (
-          <div>No data found</div>
+          <div>No data found!</div>
         )}
       </div>
     </div>
